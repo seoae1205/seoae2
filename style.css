@@ -1,0 +1,27 @@
+html{background-color: black;}
+body{
+    width: 1900px;
+    margin:0;
+}
+.seoultech{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.title{
+    width: 1900px;
+    height: 400px;
+    padding-top: 90px;
+    text-align: center;
+}
+.main{
+    width: 1900px;
+    padding-top: 150px;
+    text-align: center;
+}
+.click{
+    padding-top: 300px;
+    padding-bottom: 30px;
+}
+.fruit{
+    padding-bottom: 150px;
+}
